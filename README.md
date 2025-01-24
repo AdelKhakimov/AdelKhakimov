@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Adel and I'm learning python.</h2>
+<h2 align="center">Hi 👋! My name is Adel and I'm python developer.</h2>
 
 ###
 
@@ -21,7 +21,7 @@
 ###
 
 <div align="center">
-  <a href="https://t.me/harsotto" target="_blank">
+  <a href="https://t.me/KhakimovAdel" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
   <a href="https://instagram.com/adelxakimov" target="_blank">
